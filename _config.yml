@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: HQ Blog
 SEOTitle: 汉权的博客 | HQ Blog
 header-img: img/post-bg-desk.jpg
 email: lianghanquan123@gmail.com
@@ -97,8 +97,8 @@ friends: [
         title: "runlin",
         href: "http://zhuangrunlin.com"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "简书·HQ",
+        href: "http://www.jianshu.com/u/9fd3e780a17b"
     },{
         title: "Apple",
         href: "https://apple.com"
